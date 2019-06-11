@@ -1,0 +1,43 @@
+#grid {
+    border: 3px solid #cccccc;
+    border-collapse:collapse;
+    }
+
+#grid td.cell {
+border: 1px solid #cccccc;
+border-collapse:collapse;
+width:80px;
+height:80px;
+background-color: white;
+}
+
+#miniGrid {
+    margin: 20px;
+    border: 1px solid #cccccc;
+    border-collapse:collapse;
+    }
+
+#miniGrid td.cellWhite {
+    border: 1px solid #cccccc;
+    border-collapse:collapse;
+    width:80px;
+    height:80px;
+    background-color: white;
+    }  
+
+#miniGrid td.cellBlack {
+    border: 1px solid #cccccc;
+    border-collapse:collapse;
+    width:80px;
+    height:80px;
+    background-color: #333333;
+        }  
+    
+#start{
+    font-size: 18px;
+    padding: 0.7em 1.5em;
+    margin-bottom: 30px;
+    background-color: green;
+    border: 1px solid black;
+}
+   

@@ -1,0 +1,14 @@
+C:\Users\triprog-15\source\repos\AppWebTestFabio\bin\Debug\netcoreapp2.2\AppWebTestFabio.deps.json
+C:\Users\triprog-15\source\repos\AppWebTestFabio\bin\Debug\netcoreapp2.2\AppWebTestFabio.runtimeconfig.json
+C:\Users\triprog-15\source\repos\AppWebTestFabio\bin\Debug\netcoreapp2.2\AppWebTestFabio.runtimeconfig.dev.json
+C:\Users\triprog-15\source\repos\AppWebTestFabio\bin\Debug\netcoreapp2.2\AppWebTestFabio.dll
+C:\Users\triprog-15\source\repos\AppWebTestFabio\bin\Debug\netcoreapp2.2\AppWebTestFabio.pdb
+C:\Users\triprog-15\source\repos\AppWebTestFabio\obj\Debug\netcoreapp2.2\AppWebTestFabio.csprojAssemblyReference.cache
+C:\Users\triprog-15\source\repos\AppWebTestFabio\obj\Debug\netcoreapp2.2\AppWebTestFabio.csproj.CoreCompileInputs.cache
+C:\Users\triprog-15\source\repos\AppWebTestFabio\obj\Debug\netcoreapp2.2\AppWebTestFabio.RazorAssemblyInfo.cache
+C:\Users\triprog-15\source\repos\AppWebTestFabio\obj\Debug\netcoreapp2.2\AppWebTestFabio.RazorAssemblyInfo.cs
+C:\Users\triprog-15\source\repos\AppWebTestFabio\obj\Debug\netcoreapp2.2\AppWebTestFabio.AssemblyInfoInputs.cache
+C:\Users\triprog-15\source\repos\AppWebTestFabio\obj\Debug\netcoreapp2.2\AppWebTestFabio.AssemblyInfo.cs
+C:\Users\triprog-15\source\repos\AppWebTestFabio\obj\Debug\netcoreapp2.2\AppWebTestFabio.RazorTargetAssemblyInfo.cache
+C:\Users\triprog-15\source\repos\AppWebTestFabio\obj\Debug\netcoreapp2.2\AppWebTestFabio.dll
+C:\Users\triprog-15\source\repos\AppWebTestFabio\obj\Debug\netcoreapp2.2\AppWebTestFabio.pdb
